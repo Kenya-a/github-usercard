@@ -76,7 +76,7 @@ function createCards(dataK) {
   bio.textContent = `Bio: ${dataK.data.bio}`;
 
   //organization
-  card.appendChild(card)
+  
   card.appendChild(img)
   card.appendChild(cardInfo)
   cardInfo.appendChild(name)
